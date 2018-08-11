@@ -1,7 +1,3 @@
----
-title: The First AWATIM Project
----
-
 # The First AWATIM
 Help the AWATIM Project grow with Patreon: https://www.patreon.com/AWATIM. Also follow our twitter for occasional updates via <a href="https://twitter.com/thefirstawatim">@thefirstawatim</a>. The First AWATIM (aka AWATIM) is a project to bring better services to the modern world (ex: better **games**, better **websites**, better **makers**, and better **world**). AWATIM is a one man team (so far) if you want to help out the only way right now is through <a href="https://www.patreon.com/AWATIM">Patreon</a>.
 
