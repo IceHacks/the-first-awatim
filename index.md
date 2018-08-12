@@ -18,4 +18,7 @@ We beleive in free games with no ads and minimal IAP's. That is hard for most de
   {% endfor %}
 </ul>
 
-{% include "footer.html" %}
+<br>
+
+PayPal: [https://paypal.me/pools/c/86UlkTcIoJ](https://paypal.me/pools/c/86UlkTcIoJ)<br>
+Patreon: [https://www.patreon.com/AWATIM](https://www.patreon.com/AWATIM)
