@@ -4,7 +4,6 @@ Help the AWATIM Project grow with Patreon: [https://www.patreon.com/AWATIM](http
 ## Games
 We beleive in free games with no ads and minimal IAP's. That is hard for most developers to conceive but not for us. Being a hardcore programmer myself and an mild gamer I "understand" ads but I disagree with them at the same time. The best way to get rid of ads is through nice people (maybe you) that donate and I realize that struggle.
 
-{% include "footer.md" %}
 <br>
 
 ## Blog
@@ -18,3 +17,5 @@ We beleive in free games with no ads and minimal IAP's. That is hard for most de
     </li>
   {% endfor %}
 </ul>
+
+{% include "footer.md" %}
