@@ -18,4 +18,4 @@ We beleive in free games with no ads and minimal IAP's. That is hard for most de
   {% endfor %}
 </ul>
 
-{% include "footer.md" %}
+{% include "footer.html" %}
